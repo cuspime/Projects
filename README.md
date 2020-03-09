@@ -1,6 +1,7 @@
 <h1 style="color:green; font-family:candara; font-size:300%; text-align:center;"> 
     Projects
 </h1>
+
 ***
 
 This is a repo for some projects I've worked on for the past few weeks while learning ML. 
