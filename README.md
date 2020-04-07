@@ -14,7 +14,7 @@ Mostly a compendium of some functions and ideas used in Python, Pandas, Seaborn,
 |[Credit_card_default_kaggle](https://github.com/cuspime/Projects/blob/master/Credit_card_default_kaggle.ipynb)| Machine learning application to identify default payments for a small sample. |
 |[Heart_disease](https://github.com/vcuspinera/cuspime-projects/blob/master/Heart_disease.ipynb)| Heart disease is, according to the WHO the number one cause of death globally.  This is specially important after knowing that "80% of premature heart disease and stroke is preventable  |
 |[IMDb](https://github.com/cuspime/Projects/blob/master/IMDb.ipynb)| EDA about IMDb |
-|[Ph_ODE](https://github.com/cuspime/Projects/blob/master/PhD_ODE.ipynb)| These are the numerical methods we used in a [couple of projects during my PhD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.024046)  to solve the Ordinary Differential Equations (ODEs) describing vacuum decay triggered by black holes within a higher dimensional model of our universe known as the Randall-Sundrum braneworld model (RS). |
+|[PhD_ODE](https://github.com/cuspime/Projects/blob/master/PhD_ODE.ipynb)| These are the numerical methods we used in a [couple of projects during my PhD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.024046)  to solve the Ordinary Differential Equations (ODEs) describing vacuum decay triggered by black holes within a higher dimensional model of our universe known as the Randall-Sundrum braneworld model (RS). |
   
  
 
