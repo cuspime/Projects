@@ -10,6 +10,7 @@ Mostly a compendium of some functions and ideas used in Python, Pandas, Seaborn,
   
 |Project|Description|
 |:------|:----------|
+|[ChestXRays](https://github.com/cuspime/Projects/blob/master/ChestXRays.ipynb) | Detection of pneumonia patients with image classification through a CNN in Tensorflow and Keras |
 |[COVID-19](https://github.com/cuspime/projects/blob/master/COVID-19.ipynb)| The coronavirus phenomenon has alarmed the world and that has waken us up about the implication of pandemias in a globalised world. In this notebook I do a bit of research on my own questions about the COVID-19. |
 |[Credit_card_default_kaggle](https://github.com/cuspime/Projects/blob/master/Credit_card_default_kaggle.ipynb)| Machine learning application to identify default payments for a small sample. |
 |[Heart_disease](https://github.com/vcuspinera/cuspime-projects/blob/master/Heart_disease.ipynb)| Heart disease is, according to the WHO the number one cause of death globally.  This is specially important after knowing that "80% of premature heart disease and stroke is preventable  |
