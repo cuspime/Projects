@@ -17,7 +17,9 @@ Mostly a compendium of some functions and ideas used in Python, Pandas, Seaborn,
 |[Heart_disease](https://github.com/vcuspinera/cuspime-projects/blob/master/Heart_disease.ipynb)| Heart disease is, according to the WHO the number one cause of death globally.  This is specially important after knowing that "80% of premature heart disease and stroke is preventable  |
 |[IMDb](https://github.com/cuspime/Projects/blob/master/IMDb.ipynb)| EDA about IMDb |
 |[PhD_ODE](https://github.com/cuspime/Projects/blob/master/PhD_ODE.ipynb)| These are the numerical methods we used in a [couple of projects during my PhD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.024046)  to solve the Ordinary Differential Equations (ODEs) describing vacuum decay triggered by black holes within a higher dimensional model of our universe known as the Randall-Sundrum braneworld model (RS). |
+|[Analysis of #LoveIsNotTourism on Twitter](https://github.com/cuspime/Projects/blob/master/Twitter.ipynb)| This project is motivated by the [**#LoveIsNotTourism** movement](https://www.loveisnottourism.org/). International families have been separated by travel bans that do not consider binational couples as a legitimate civil union, hence separating people from their essential ones, forcing them to meet in third countries without travel bans.
+Therefore, it is interesting to see the behaviour of a group with a newly created hashtag flag that has already made changes in governmental decisions. This python analysis also leads to a highly interactive [Tableau dashboard](https://public.tableau.com/profile/leocuspinera#!/vizhome/Twitter_15978796836980/Main_Story).|
   
  
 
-For any questions you can contact me on [Linkedin](https://www.linkedin.com/in/leocuspinera/) or send me a line to [my email](mailto:leocuspinera@gmail.com).
+For any queries you can reach me on [Linkedin](https://www.linkedin.com/in/leocuspinera/) or send me a line to [my email](mailto:leocuspinera@gmail.com).
